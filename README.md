@@ -2,7 +2,7 @@
 
 [![CRAN](https://www.r-pkg.org/badges/version/epifitter)](https://CRAN.R-project.org/package=epifitter) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/epifitter)](https://CRAN.R-project.org/package=epifitter)
 
-Provides a set of tools for aiding in the **visualization, description, and comparison of plant disease progress curve** (DPC) data. A DPC depict the change in a disease-intensity variable measured sequentially at different times during the epidemics. Their analysis, that may include fitting "classic" population dynamics models (e.g. logistic, monomolecular, Gompertz), allows gaining understanding of the epidemiological processes, but is most used for comparing epidemics.
+Provides a set of tools for aiding in the **visualization, description, and comparison of plant disease progress curve** (DPC) data. A DPC depicts the change in a disease-intensity variable measured sequentially at different times during the epidemics. Their analysis, that may include fitting "classic" population dynamics models (e.g. logistic, monomolecular, Gompertz), allows gaining understanding of the epidemiological processes, but is most used for comparing epidemics.
 
 The mathematics behind model fitting is straightforward and general-purpose spreadsheet or statistical softwares can be used to perform the calculations and select the "best" model. What `epifitter` does is to provide the analyst with R functions for performing several tasks commonly used for the temporal analysis of epidemics, including graphical output.
 
